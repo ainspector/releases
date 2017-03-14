@@ -1,5 +1,7 @@
 # AInspector Sidebar Test Releases
 
+## Latest XPI file: `ai-sidebar-1.1.0.xpi`
+
 ## Note: Firefox Developer Edition is now required for testing unsigned add-ons
 
 * As of 2 Aug 2016, the Firefox 48 release version no longer provides the option of installing unsigned add-ons using the method outlined below.
@@ -22,7 +24,7 @@
 * In the list of filtered results, select `xpinstall.signatures.required`, right-click the item, and in the context menu, select “Toggle”.
 * The result in the “Value” column should display `false`.
 
-### Installing the XPI file: `ai-sidebar-1.1.0-beta.1.xpi`
+### Installing the XPI file: `ai-sidebar-1.1.0.xpi`
 
 * Save the downloaded XPI file in a familiar location on your computer's file system.
 * In the Firefox main menu, select “Tools > Add-ons”. A tab entitled “Add-ons Manager” will appear.
