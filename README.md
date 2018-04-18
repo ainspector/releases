@@ -7,7 +7,7 @@
 * Beginning with Firefox 48, released Aug. 2, 2016, users no longer have the option of installing unsigned add-ons using the method outlined below.
 * Only the [Firefox Extended Support Release 52](https://www.mozilla.org/en-US/firefox/organizations/) provides this capability.
 
-## Configuring Firefox Developer Edition
+## Configuring Firefox ESR 52.7.3
 
 ### Allow installation of unsigned add-ons
 
